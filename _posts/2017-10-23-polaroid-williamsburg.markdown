@@ -1,8 +1,9 @@
 ---
 layout: post
-title: "Polaroid Williamsburg"
-date: 2017-10-23
-description: 
+title: "Sensewalker Trio"
+date1: 2019-04-23
+date2: 2019-08-15
+description: blablablablablablablabl
 image: /assets/images/placeholder-9.jpg
 author: Jooyoung Parks
 tags: 

@@ -10,6 +10,8 @@ tags:
   - Dummy Text
   - Moon Drinking
   - Kale
+image_sliders:
+  - example_slider
 ---
 Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos raclette heirloom etsy next level cred locavore. Blog street art DIY, pug crucifix asymmetrical chicharrones. Small batch af single-origin coffee, scenester humblebrag fashion axe viral schlitz you probably haven’t heard of them. Kickstarter synth poutine brunch hoodie. Gochujang marfa raclette kickstarter tumeric kinfolk gentrify retro skateboard, forage meggings polaroid kombucha. Tilde mlkshk fam meggings.
 
@@ -22,6 +24,8 @@ Etsy squid occupy pop-up. Polaroid +1 everyday carry, kogi chillwave tacos racle
 2. Church-key crucifix messenger bag health goth
 3. Try-hard artisan direct trade
 4. Cold-pressed selfies
+
+{% include slider.html selector="example_slider" %}
 
 ### Subway tile
 Knausgaard readymade williamsburg tote bag taxidermy, DIY meditation copper mug. Farm-to-table [street art][#] fixie, chambray vice literally four loko vaporware. Pickled taxidermy freegan, affogato pinterest sriracha vexillologist narwhal pour-over. Man braid food truck celiac +1 bicycle rights, semiotics kogi fixie biodiesel woke raw denim quinoa ugh selfies williamsburg. Sartorial af ennui bitters knausgaard, leggings kickstarter slow-carb chia sustainable hexagon. Prism 3 wolf moon occupy ramps wayfarers tumblr narwhal 90’s. Woke chambray church-key before they sold out, gochujang fashion axe franzen banh mi pinterest forage kinfolk.

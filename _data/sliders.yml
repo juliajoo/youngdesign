@@ -1,0 +1,16 @@
+# example slider
+- selector: example_slider
+  captions: true
+  images:
+    - src: /assets/images/placeholder-1.jpg
+      title: Balloons1!
+      alt: image one
+    - src: /assets/images/placeholder-2.jpg
+      title: Balloons2
+      alt: image two
+    - src: /assets/images/placeholder-3.jpg
+      title: Balloons3
+      alt: image three
+  settings:
+    height: "'auto'"
+    effect: "'slide'"

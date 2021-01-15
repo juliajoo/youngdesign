@@ -3,9 +3,9 @@ layout: post
 title: "Sensewalker Trio"
 date1: 2019-04-23
 date2: 2019-08-15
-description: blablablablablablablabl
+description: "blablablablablablablablblablablablablablablablblablablablablablablablblablablablablablablablblablablablablablablabl"
 image: /assets/images/placeholder-9.jpg
-author: Jooyoung Parks
+author: Jooyoung Park
 tags: 
   - Dummy Text
   - Moon Drinking

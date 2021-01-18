@@ -3,17 +3,41 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/images/placeholder-1.jpg#full
-      title: Balloons1!
-      alt: image one
-    - src: /assets/images/placeholder-2.jpg#full
-      title: Balloons2
-      alt: image two
-    - src: /assets/images/placeholder-3.jpg#full
-      title: Balloons3
-      alt: image three
+    - src: /assets/images/sensewalker/sensewalker-trio-02.jpg
+      title: Co-Design Workshop
+      alt: Brainstorming session with the participants
+    - src: /assets/images/sensewalker/sensewalker-trio-03.jpg
+      title: Co-Design Workshop
+      alt: Participants discussing together
+    - src: /assets/images/sensewalker/sensewalker-trio-04.jpg
+      title: Co-Design Workshop
+      alt: Affinity mapping with the participants
+    - src: /assets/images/sensewalker/sensewalker-trio-05.jpg
+      title: Concept Approach Mapping Analysis
+      alt: Concepts categorized based on their approaches
   settings:
-    height: 600
+    height: 9:16
+    effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# sensewalker smart market
+- selector: sensewalker_smartmarket
+  bullets: true
+  captions: false
+  images:
+    - src: /assets/images/sensewalker/4_1smartmarket.jpeg
+      title: Co-Design Workshop
+      alt: Brainstorming session with the participants
+    - src: /assets/images/sensewalker/4_2smartmarket.jpeg
+      title: Co-Design Workshop
+      alt: Participants discussing together
+    - src: /assets/images/sensewalker/4_3smartmarket.jpeg
+      title: Co-Design Workshop
+      alt: Affinity mapping with the participants
+  settings:
+    height: 9:16
     effect: "'slide'"
     interval: 3500
     # transitionDuration: 1000

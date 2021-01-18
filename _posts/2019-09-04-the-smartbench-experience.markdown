@@ -4,7 +4,7 @@ title: "The Smart Bench Experience"
 date1: 2019-09-04
 date2: 2020-04-29
 description: A speculative design to create critical awareness of Data-driven Nudging in the Smart City
-image: /assets/images/smartbench/placeholder-8.jpg
+image: /assets/images/smartbench/smartbench-main.gif
 author: Jooyoung Park
 tags: 
   - Design Research
@@ -12,6 +12,7 @@ tags:
   - Interface Design
   - Sensor Technology
 image_sliders:
+  - smartbench_background
 ---
 Data-driven nudging is an emerging urban behavior change strategy which enables more efficient city management but also results in social implications like increased surveillance. However, there is still lack of awareness and citizen involvement on this topic due to its complexity and digital divide. **The Smart Bench Experience** consists of two interactive artefacts - a Smart Bench and its compatible interface - materializing a future scenario of a data-driven smart city. This set of experiential prototypes opened up collective discussions, through which I investigated citizens’ future city visions and potential prerequisites of data-driven urban IoTs for citizens.
 
@@ -22,7 +23,13 @@ The project was selected to take part in **<a href="https://ddw.nl/en/video/79/d
 ### Background
 <!-- &nbsp; -->
 ###### *Influential yet subtle existence of data-driven nudging and unaware citizens*
-As a vast aggregate of urban data can be easily measured and collected, data-driven nudging is being implemented in many urban infrastructures to prompt desirable citizen behaviors. Unlike regular nudging, with data-driven nudging citizen behaviors can be more elaborately yet unknowingly steered and optimized using predictive algorithms. Through literature research, <ins>5 key attributes of data-driven nudging</ins> were identified and utilized as a conceptual framework for the design. 
+
+{% include slider.html selector="smartbench_background" %}
+<!-- &nbsp; -->
+As a vast aggregate of urban data can be easily measured and collected, data-driven nudging is being implemented in many urban infrastructures to prompt desirable citizen behaviors. Unlike regular nudging, with data-driven nudging citizen behaviors can be more elaborately yet unknowingly steered and optimized using predictive algorithms. 
+
+![5 Key Attributes of Data-driven Nudging](/assets/images/smartbench/conceptual_framework.jpg)
+Through literature research, <ins>5 key attributes of data-driven nudging</ins> were identified and utilized as a conceptual framework for the design.
 
 <hr/>
 
@@ -37,7 +44,10 @@ As a vast aggregate of urban data can be easily measured and collected, data-dri
 <hr/>
 
 ### Approach & Method
-I chose Speculative and Critical Design (SCD) as a main approach because immersing citizens into an experiential future scenario seemed relevant to achieve the design goals. The entire process took a double-diamond structure, utilizing Research through Design (RtD) methodology.
+
+![The Future Cone](/assets/images/smartbench/The-futures-cone-by-Voros.png)
+
+I chose *<a href="https://speculativeedu.eu/about/" target="_blank">Speculative and Critical Design (SCD)</a>* as a main approach because immersing citizens into an *<a href="https://futuryst.blogspot.com/2018/10/experiential-futures-brief-outline.html" target="_blank">experiential future</a>* scenario seemed relevant to achieve the design goals. The entire process took a double-diamond structure, utilizing *<a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design" target="_blank">Research through Design (RtD)</a>* methodology.
 <hr/>
 
 ### Design Process

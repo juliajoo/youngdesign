@@ -42,3 +42,24 @@
     interval: 3500
     # transitionDuration: 1000
     keyboardNav: true
+
+# smart bench background context
+- selector: smartbench_background
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/smartbench/1_1stratumseind.jpg
+      title: An example of data-driven nudging in NL
+      alt: Stratumseind in Eindhoven
+    - src: /assets/images/smartbench/1_2background.jpg
+      title: Applications of Data-driven Nudging
+      alt: Stratumseind Living Lab's aggressive behavior detection
+    - src: /assets/images/smartbench/1_3background.jpg
+      title: Applications of Data-driven Nudging
+      alt: Stratumseind Living Lab's aggressive behavior detection
+  settings:
+    height: 450
+    effect: "'fade'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true

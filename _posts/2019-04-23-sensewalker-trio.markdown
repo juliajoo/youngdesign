@@ -20,7 +20,7 @@ image_sliders:
 
 ### Goal of the Project
 &nbsp;
-![Urban Sensors](/assets/images/sensewalker/sensewalker-trio-01.jpg#full)
+![Urban Sensors](/assets/images/sensewalker/sensewalker-trio-01.jpg)
 
 &nbsp;
 Dutch Smart City of Utrecht uses a wide variety of urban sensors collecting real-time information about the city. However, its citizens know so less about it. The user research revealed that citizens don’t know when and where their data is collected, what kind of data is collected, or who has the ownership of the collected data.

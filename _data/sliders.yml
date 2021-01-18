@@ -1,16 +1,20 @@
-# example slider
-- selector: example_slider
+# sensewalker slider
+- selector: sensewalker_process
+  bullets: true
   captions: true
   images:
-    - src: /assets/images/placeholder-1.jpg
+    - src: /assets/images/placeholder-1.jpg#full
       title: Balloons1!
       alt: image one
-    - src: /assets/images/placeholder-2.jpg
+    - src: /assets/images/placeholder-2.jpg#full
       title: Balloons2
       alt: image two
-    - src: /assets/images/placeholder-3.jpg
+    - src: /assets/images/placeholder-3.jpg#full
       title: Balloons3
       alt: image three
   settings:
-    height: "'auto'"
+    height: 600
     effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true

@@ -12,7 +12,7 @@ tags:
   - Interface Design
   - Sensor Technology
 image_sliders:
-  - smartbench_background
+  - slider_smartbench_background
 ---
 Data-driven nudging is an emerging urban behavior change strategy which enables more efficient city management but also results in social implications like increased surveillance. However, there is still lack of awareness and citizen involvement on this topic due to its complexity and digital divide. **The Smart Bench Experience** consists of two interactive artefacts - a Smart Bench and its compatible interface - materializing a future scenario of a data-driven smart city. This set of experiential prototypes opened up collective discussions, through which I investigated citizens’ future city visions and potential prerequisites of data-driven urban IoTs for citizens.
 
@@ -24,7 +24,7 @@ The project was selected to take part in **<a href="https://ddw.nl/en/video/79/d
 <!-- &nbsp; -->
 ###### *Influential yet subtle existence of data-driven nudging and unaware citizens*
 
-{% include slider.html selector="smartbench_background" %}
+{% include slider.html selector="slider_smartbench_background" %}
 <!-- &nbsp; -->
 As a vast aggregate of urban data can be easily measured and collected, data-driven nudging is being implemented in many urban infrastructures to prompt desirable citizen behaviors. Unlike regular nudging, with data-driven nudging citizen behaviors can be more elaborately yet unknowingly steered and optimized using predictive algorithms. 
 

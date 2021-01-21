@@ -205,7 +205,7 @@
     }
   }
 
-  a {
+  a[href] {
     color: $color-black;
     border-bottom: 2px solid $color-grey;
     box-shadow: inset 0 -3px 0 $color-grey;
@@ -234,7 +234,7 @@
 
   img[src$="#full"] {
     width: 100vw;
-    max-width: none;
+    max-width: $mq-xlarge * 80%;
   }
 
   .flex-vid {

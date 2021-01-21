@@ -67,8 +67,8 @@
 .iis-has-captions .iis-bullet-nav { max-width: 42%; }
 .iis-bullet-nav a {
 	display: inline-block;
-	width: 10px;
-	height: 10px;
+	width: 15px;
+	height: 15px;
 	background: transparent;
 	text-indent: 9999px;
 	margin: 0 5px;
@@ -103,7 +103,7 @@
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 }
-.iis-has-bullet-nav .iis-caption { max-width: 42%; }
+.iis-has-bullet-nav .iis-caption { max-width: 62%; }
 .iis-caption .iis-caption-title { font-weight: bold; }
 .iis-caption .iis-caption-content {
 	font-size: 13px;

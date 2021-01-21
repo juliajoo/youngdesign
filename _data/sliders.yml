@@ -1,5 +1,5 @@
 # sensewalker slider
-- selector: sensewalker_process
+- selector: slider_sensewalker_process
   bullets: true
   captions: true
   images:
@@ -23,7 +23,7 @@
     keyboardNav: true
 
 # sensewalker smart market
-- selector: sensewalker_smartmarket
+- selector: slider_sensewalker_smartmarket
   bullets: true
   captions: false
   images:
@@ -44,7 +44,7 @@
     keyboardNav: true
 
 # smart bench background context
-- selector: smartbench_background
+- selector: slider_smartbench_background
   bullets: true
   captions: true
   images:
@@ -58,7 +58,7 @@
       title: Applications of Data-driven Nudging
       alt: Stratumseind Living Lab's aggressive behavior detection
   settings:
-    height: 450
+    height: "'auto'"
     effect: "'fade'"
     interval: 3500
     # transitionDuration: 1000

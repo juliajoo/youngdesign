@@ -12,8 +12,8 @@ tags:
   - UI Design
   - CoDesign
 image_sliders:
-  - sensewalker_process
-  - sensewalker_smartmarket
+  - slider_sensewalker_process
+  - slider_sensewalker_smartmarket
 ---
 **SenseWalker Trio** is a series of smart solutions for improved technological transparency and mitigating the problem of digital divide. Embedded into three different digital devices respectively - a smartphone, smartwatch, and a wearable necklace -, **SenseWalker Trio** intuitively curates key information about the city’s invisible urban sensors. 
 <hr/>
@@ -36,7 +36,7 @@ The project focuses on the first two stages of technological citizen empowerment
 
 ### Design Process
 
-{% include slider.html selector="sensewalker_process" %}
+{% include slider.html selector="slider_sensewalker_process" %}
 
 1. Co-Design Workshops revealed that citizens were experiencing a lack of control and anxiety mainly due to these three factors: urban sensors’ invisibility, inscrutable sorts of data they are collecting, and unclear ownership of collected data. 54 concepts were generated, ranging from poetic/subtle approach to functional/direct approach.
 2. I eventually selected three concepts that are evenly distributed on the aforementioned approach axes: sensor information map, sensor-free route finding service, and a nearby sensor tracking application. 
@@ -72,7 +72,7 @@ The last concept takes the most poetic and subtle approach of informing users ab
 
 <hr/>
 
-{% include slider.html selector="sensewalker_smartmarket" %}
+{% include slider.html selector="slider_sensewalker_smartmarket" %}
 
 Together with other works within *Demystifying the Smart City* Research Program of <a href="https://www.sensorlab.nl/" target="_blank">Sensor Lab</a>, the project was showcased at Smart Market Exhibition during *<a href="https://raumutrecht.nl/event/cirque-du-data/" target="_blank">Cirque Du Data</a>* at RAUM Utrecht Art Center (November 2019). <a href="https://medium.com/sensor-lab/looking-back-on-demystifying-the-smart-city-a-year-of-research-on-the-trade-off-between-citizen-1ce0939efbf9" target="_blank">Here</a>, you can check out the Medium article from Sensor Lab featuring my work.
 

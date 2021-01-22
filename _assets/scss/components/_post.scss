@@ -234,7 +234,7 @@
 
   img[src$="#full"] {
     width: 100vw;
-    max-width: $mq-xlarge * 80%;
+    max-width: $mq-xlarge;
   }
 
   .flex-vid {

@@ -45,7 +45,8 @@ Through literature research, <ins>5 key attributes of data-driven nudging</ins> 
 
 ### Approach & Method
 
-![The Future Cone](/assets/images/smartbench/The-futures-cone-by-Voros.png)
+<!-- ![The Future Cone](/assets/images/smartbench/future-cone.jpg) -->
+![The Future Cone](/assets/images/smartbench/scd.png)
 
 I chose *<a href="https://speculativeedu.eu/about/" target="_blank">Speculative and Critical Design (SCD)</a>* as a main approach because immersing citizens into an *<a href="https://futuryst.blogspot.com/2018/10/experiential-futures-brief-outline.html" target="_blank">experiential future</a>* scenario seemed relevant to achieve the design goals. The entire process took a double-diamond structure, utilizing *<a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design" target="_blank">Research through Design (RtD)</a>* methodology.
 <hr/>

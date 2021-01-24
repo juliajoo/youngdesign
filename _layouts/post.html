@@ -6,7 +6,7 @@ layout: default
     <div class="post__header section-padding--double">
       <div class="grid-small">
         <h1 itemprop="name headline">{{ page.title }}</h1>
-        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateStarted">{{ page.date1 | date: "%B %Y" }}  -  {{ page.date2 | date: "%B %Y" }}</time><br>
+        <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="dateStarted">{{ page.date1 | date: "%b %Y" }}  -  {{ page.date2 | date: "%b %Y" }}</time><br>
         <h4 itemprop="abstract">{{ page.description }}</h4>
       </div>
     </div>

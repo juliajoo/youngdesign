@@ -4,12 +4,11 @@ title: "CUE"
 date1: 2017-07-20
 date2: 2017-08-29
 description: A Service Design of a Location-based Social Music Platform
-image: /assets/images/cue/smartbench-main.gif
+image: /assets/images/cue/main-cue.jpg
 author: Jooyoung Park
 tags: 
-  - UX Design
-  - UI Design
   - UX Research
+  - UI Design
   - Service Design
   - Strategic Design
 image_sliders:
@@ -22,31 +21,49 @@ CUE received the Best Innovator Prize and won 700,000 KRW at Summer Internship F
 
 ### User Research & Problem Definition
 <!-- &nbsp; -->
-###### *How are the target users consuming music?*
-###### *What services are they currently using and for what reasons?*
-###### *What are the key aspects of their music discovery & sharing behaviors?*
-Starting from these key questions, we conducted an online survey *(N=237)* and several focus-group interviews with the predominant user group of Melon: listeners in their twenties. The research results clearly outlined three main objectives the users want to fulfil through music platforms: <ins>music discovering, streaming, and sharing.</ins> However, more than **80 percent** of the respondents only used Melon for the purpose of listening and were not aware of or unsatisfied with its existing features of music discovery and sharing. And they were using other international music platforms like Spotify or Apple Music to fulfil the unmet needs.
+![Context Study Process](/assets/images/cue/context-userstudy.jpg)
+
+##### *How are the target users consuming music?*
+##### *What services are they currently using and for what reasons?*
+##### *What are the key aspects of their music discovery & sharing behaviors?*
+Starting from these key questions, we conducted an online survey *(N=237)* and several focus-group interviews with the predominant user group of Melon: listeners in their twenties. The research results clearly outlined three main objectives the users want to fulfil through music platforms: <ins>music discovering, streaming, and sharing.</ins> However, more than **80 percent** of the respondents only used Melon for the purpose of listening and were not aware of or unsatisfied with its existing features of music discovery and sharing. And they were using other international music platforms like Spotify or Apple Music or social media to fulfil the unmet needs.
 
 We also discovered these design opportunities and took these into account while formulating the design direction. 
-<ul>
-<li>The user group attached great value to the social sharing of music due to following reasons: (1) to discover music, (2) to express their unique identity, (3) to maintain good social networks etc.</li>
-<li>The majority of the users were using music applications on the road (e.g., while commuting via public transportation, while walking) or in a public place (e.g., cafe, parks).</li>
-<li>Most interestingly, **53 percent** of the users showed curiosity and interest in knowing the music other people in public spaces are listening to.</li>
-</ul>
+1. The user group attached great value to the social sharing of music due to following reasons: (1) to discover music, (2) to express their unique identity, (3) to maintain good social networks etc.
+2. The majority of the users were using music applications on the road (e.g., while commuting via public transportation, while walking) or in a public place (e.g., cafe, parks).
+3. Most interestingly, **53 percent** of the users showed curiosity and interest in knowing the music other people in public spaces are listening to.
+
+![Context Study Process](/assets/images/cue/context1.png)
+###### *How are the target users discovering new music and for what reasons?*
+
 <hr/>
 
 ### Project Goals
 <!-- &nbsp; -->
-###### *Creating Instagram and Tinder for Music*
-<ul>
-  <li>To design a new all-in-one music platform where users can discover, listen to, and share music to other users</li>
-  <li>To create a mobile environment where users with similar music taste can easily socialize with each other utilizing their spatial proximity</li>
-  <li>To establish a UX flow encouraging users mutual interaction, through which LOEN can improve the quality of the music database</li>
-</ul>
+##### *Creating Instagram and Tinder for Music*
+1. To design a new all-in-one music platform where users can discover, listen to, and share music to other users
+2. To create a mobile environment where users with similar music taste can easily socialize with each other utilizing their spatial proximity
+3. To establish a UX flow encouraging users mutual interaction, through which the client can improve the quality of the music database
+
 <hr/>
 
 ### Design Process
 Through an iterative design process, an overall information architecture was formulated focusing on four main features: <ins>**interpersonal music sharing (we coined a term ‘Cuing’), social music feed, music search, and my page**</ins>. Particularly, we took into account that users are specifically intrigued in sharing/being shared new music to/from other people with similar music taste as themselves. So we designed the two main tabs of Cuing and social music feed easily accessible, intuitive, and visually familiar to target users.   
+
+![CUE Main Features](/assets/images/cue/designprocess-feature.jpg)
+###### *Main Features*
+
+![Information Architecture](/assets/images/cue/designprocess-infoarchitecture.png)
+###### *App Information Architecture*
+
+![CUE Wireframe](/assets/images/cue/designprocess-wireframe.jpg)
+###### *App Wireframe*
 <hr/>
 
 ### Final Outcome
+![CUE App Overview](/assets/images/cue/final-cue1.jpg)
+![CUE Loading Page](/assets/images/cue/final-cue2.jpg)
+![CUE Cuing](/assets/images/cue/final-cue3.jpg)
+![CUE Feed](/assets/images/cue/final-cue5.jpg)
+![CUE Search](/assets/images/cue/final-cue4.jpg)
+![CUE My Page](/assets/images/cue/final-cue6.jpg)

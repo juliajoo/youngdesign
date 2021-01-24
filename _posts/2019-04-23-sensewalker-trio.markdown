@@ -21,6 +21,7 @@ image_sliders:
 ### Goal of the Project
 &nbsp;
 ![Urban Sensors](/assets/images/sensewalker/sensewalker-trio-01.jpg)
+###### *Examples of Diverse Urban Sensors*
 
 &nbsp;
 Dutch Smart City of Utrecht uses a wide variety of urban sensors collecting real-time information about the city. However, its citizens know so less about it. The user research revealed that citizens don’t know when and where their data is collected, what kind of data is collected, or who has the ownership of the collected data.
@@ -50,12 +51,14 @@ SenseWalker Trio offers citizens a refreshing way of experiencing and engaging w
 
 ![Sensor Map App Mockup 1](/assets/images/sensewalker/sensewalker-trio-06.png)
 ![Sensor Map App Mockup 2](/assets/images/sensewalker/1_2app.png)
+###### *Sensor Map Mockup*
 
 Using the actual data from *<a href="https://utrecht.dataplatform.nl/#/home" target="_blank">Open Data Platform of Utrecht Municipality</a>*, this application visibly shows sensor locations and curates crucial information about these sensors real-time. By tapping on each sensor, users can check what sorts of data it is collecting, which entity owns the data, and its <a href="https://europeandesign.org/submissions/privacy-label/" target="_blank">Privacy Label developed by CLEVERºFRANKE</a> showing how privacy-friendly it is. With the app’s other features of route finding and sensor exposure overview on *Report Tab*, users can exert control over how much they would like to give away their personal data for the city.
 
 #### Concept 2: Sensor Compass
 
 ![Sensor Compass User Journey](/assets/images/sensewalker/2watch.png)
+###### *Sensor Compass User Journey*
 
 The second concept on a smartwatch helps users to navigate privacy-friendly routes. Users can pinpoint a desired destination via voice control and Sensor Compass will assist them to bypass sensors. Users can determine which sensors they would like to opt out through the sensor filter feature. The analog compass aesthetic adds some level of playfulness to the experience pathfinding.
 
@@ -63,6 +66,7 @@ The second concept on a smartwatch helps users to navigate privacy-friendly rout
 
 ![Sensing Necklace 1](/assets/images/sensewalker/3_1necklace.png)
 ![Sensing Necklace 2](/assets/images/sensewalker/3_2necklace.png)
+###### *Sensing Necklace Mockup*
 
 The last concept takes the most poetic and subtle approach of informing users about sensors. The pendant of this necklace shows how much the user has been exposed to sensors throughout the day with visual and haptic cues. Its green color will gradually change into a flaring red and it will produce buzzing vibration as the user bypasses more sensors.
 
@@ -70,9 +74,12 @@ The last concept takes the most poetic and subtle approach of informing users ab
 
 <iframe src="https://player.vimeo.com/video/501876193" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
+###### *SenseWalker Trio User Experience Scenarios*
+
 <hr/>
 
 {% include slider.html selector="slider_sensewalker_smartmarket" %}
+###### *SenseWalker Trio exhibited at Smart Market Exposition*
 
 Together with other works within *Demystifying the Smart City* Research Program of <a href="https://www.sensorlab.nl/" target="_blank">Sensor Lab</a>, the project was showcased at Smart Market Exhibition during *<a href="https://raumutrecht.nl/event/cirque-du-data/" target="_blank">Cirque Du Data</a>* at RAUM Utrecht Art Center (November 2019). <a href="https://medium.com/sensor-lab/looking-back-on-demystifying-the-smart-city-a-year-of-research-on-the-trade-off-between-citizen-1ce0939efbf9" target="_blank">Here</a>, you can check out the Medium article from Sensor Lab featuring my work.
 

@@ -16,7 +16,7 @@
       title: Concept Approach Mapping Analysis
       alt: Concepts categorized based on their approaches
   settings:
-    height: 9:16
+    height: 7:11
     effect: "'slide'"
     interval: 3500
     # transitionDuration: 1000
@@ -37,7 +37,7 @@
       title: Co-Design Workshop
       alt: Affinity mapping with the participants
   settings:
-    height: 9:16
+    height: "'auto'"
     effect: "'slide'"
     interval: 3500
     # transitionDuration: 1000
@@ -59,26 +59,158 @@
       alt: Stratumseind Living Lab's aggressive behavior detection
   settings:
     height: "'auto'"
-    effect: "'fade'"
+    effect: "'slide'"
     interval: 3500
     # transitionDuration: 1000
     keyboardNav: true
 
 
-# smart bench process context
-- selector: slider_smartbench_process
+# smart bench process design process1
+- selector: slider_smartbench_process1
   bullets: true
   captions: true
   images:
-    - src: /assets/images/smartbench/1_1stratumseind.jpg
-      title: An example of data-driven nudging in NL
-      alt: Stratumseind in Eindhoven
-    - src: /assets/images/smartbench/1_2background.jpg
-      title: Applications of Data-driven Nudging
-      alt: Stratumseind Living Lab's aggressive behavior detection
-    - src: /assets/images/smartbench/1_3background.jpg
-      title: Applications of Data-driven Nudging
-      alt: Stratumseind Living Lab's aggressive behavior detection
+    - src: /assets/images/smartbench/process1_1.jpg
+      alt: Concept ideas
+    - src: /assets/images/smartbench/process1_3.jpg
+      alt: User evaluation with interaction walkthrough
+    - src: /assets/images/smartbench/process1_4.jpg
+      alt: Data points brainstorming for a speculative interactive system
+  settings:
+    height: 7:13
+    effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# smart bench process design process2
+- selector: slider_smartbench_process2
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/smartbench/2_1wireframe.jpeg
+      alt: Interface Module 1 Wireframe - Healthy City
+    - src: /assets/images/smartbench/2_2wireframe.jpeg
+      alt: Interface Module 2 Wireframe - Clean City
+    - src: /assets/images/smartbench/2_3wireframe.jpeg
+      alt: Interface Module 3 Wireframe - Safe City
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# smart bench prototype
+- selector: slider_smartbench_prototype
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/smartbench/outcome-angle1.png
+      alt: Smart Bench Prototype
+    - src: /assets/images/smartbench/outcome-angle2-lighter.jpg
+      alt: Smart Bench Prototype
+  settings:
+    height: 7:11
+    effect: "'fade'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# material mosaic context
+- selector: slider_materialmosaic_context
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/materialmosaic/1context-tudelft.jpg
+      title: Problem Context
+      alt: TU Delft Architecture Faculty Modelling Hall
+    - src: /assets/images/materialmosaic/3_1Reusebins.jpg
+      title: Problem Context
+      alt: Reuse bins
+    - src: /assets/images/materialmosaic/3_2contextwaste.jpg
+      title: Problem Context
+      alt: Reuse bins
+  settings:
+    height: 7:11
+    effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# material mosaic contextmapping
+- selector: slider_materialmosaic_contextmapping
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/materialmosaic/contextmapping1.jpg
+      title: Contextmapping Session
+      alt: Generative User Research Materials
+    - src: /assets/images/materialmosaic/contextmapping2.jpg
+      title: Contextmapping Session
+      alt: Session with Follow-up Interview
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# material mosaic design process
+- selector: slider_materialmosaic_process
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/materialmosaic/process-1.jpg
+      title: Generative Design Process
+      alt: Initial Design Interventions & Horizontal Sliding Frame Interaction Evaluation
+    - src: /assets/images/materialmosaic/process-2.jpg
+      title: Comparment Designs
+      alt: (a) Wavy Shaped Compartments (b) A Grid System Bar Compartments
+    - src: /assets/images/materialmosaic/process-3.jpg
+      title: User Evaluation
+      alt: Interaction Vision Evaluation
+    - src: /assets/images/materialmosaic/prototype.jpg
+      title: Prototype Building
+      alt: Wooden Panel with Aluminium Grid Bars
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+# material mosaic final prototype
+- selector: slider_materialmosaic_final
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/materialmosaic/prototype1_0.jpg
+      alt: Material Mosaic Final Prototype & Key Features
+    - src: /assets/images/materialmosaic/prototype1_1.jpg
+      alt: A participant interacting with the prototype
+    - src: /assets/images/materialmosaic/prototype1_2.jpg
+      alt: User Interaction
+    - src: /assets/images/materialmosaic/prototype1_3model.jpg
+      alt: Real Context Application 
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
+    interval: 3500
+    # transitionDuration: 1000
+    keyboardNav: true
+
+
+# icu soundscape design process
+- selector: slider_icu_process
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/icusoundscape/process-1sketch.jpg
+      title: Sketching & Modelling
+      alt: Initial Form Giving Sketches and Modelling
+    - src: /assets/images/icusoundscape/process-2electronics.jpg
+      title: Electronics Work & Installation Assembling
   settings:
     height: "'auto'"
     effect: "'fade'"

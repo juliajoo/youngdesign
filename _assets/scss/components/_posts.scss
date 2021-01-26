@@ -72,6 +72,11 @@
     &:hover {
       .posts__img {
         transform: translate3d(0, -15px, 0);
+        -webkit-filter: grayscale(0);
+        filter: grayscale(0);
+      }
+      img {
+        // do something here if you want to put hover image
       }
     }
   }
@@ -80,6 +85,8 @@
     margin-bottom: 1em;
 
     background-color: $color-lightgrey;
+      -webkit-filter: grayscale(100%);
+      -webkit-transition: 400ms ease-in-out;
     transition: transform 400ms ease-in-out;
 
     img {

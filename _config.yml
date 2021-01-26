@@ -8,8 +8,8 @@ google_analytics:
 name: Jooyoung Park
 title: JOOYOUNG PARK
 description: >
-  Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: http://barber.samesies.io
+  I’m Jooyoung, a UX designer and researcher from South Korea. Born and raised in Seoul, I have been creating user-centric interfaces and experiences. Holding flexible yet critical attitude toward new technologies, I am interested in involving actual users into the design process.
+url: https://www.joooyoungpark.com/
 twitter_username: JooyYoung1
 default_img: /assets/images/IMG_6909.jpg
 social:
@@ -20,7 +20,7 @@ social:
   - name: linkedin
     url: https://www.linkedin.com/in/jooyoungvak/
   - name: github
-    url: https://github.com/samesies
+    url: https://github.com/juliajoo
 
 # Contact settings
 contact_img: /assets/images/BG.png
@@ -36,8 +36,8 @@ mailchimp_input: b_66ddf555dab480e6a8606430b_89b3ee034f
 # Author settings
 author:
   - name: Jooyoung Park
-    bio: Jooyoung Park was born and raised in Seoul, South Korea and transplanted in Washington. He was a Web Developer at Urban Influence, but now he's a Software Engineer at Getty Images.
-    url: http://thomasvaeth.com
+    bio: I am a UX designer and researcher from Seoul, South Korea. I create interfaces and experiences focusing on sustainable human-technology relationships. Holding flexible yet critical attitude towards new technologies, I am interested in involving actual users into the design process.
+    url: https://www.joooyoungpark.com/
 
 # Pagination settings
 pagination:

@@ -125,9 +125,9 @@
     - src: /assets/images/materialmosaic/1context-tudelft.jpg
       title: Problem Context
       alt: TU Delft Architecture Faculty Modelling Hall
-    # - src: /assets/images/materialmosaic/3_1Reusebins.jpg
-    #   title: Problem Context
-    #   alt: Reuse bins
+    - src: /assets/images/materialmosaic/3_1reusebins.jpg
+      title: Problem Context
+      alt: Reuse bins
     - src: /assets/images/materialmosaic/3_2contextwaste.jpg
       title: Problem Context
       alt: Reuse bins
@@ -143,12 +143,12 @@
   bullets: true
   captions: true
   images:
-    # - src: /assets/images/materialmosaic/contextmapping1.jpg
-    #   title: Contextmapping Session
-    #   alt: Generative User Research Materials
-    # - src: /assets/images/materialmosaic/contextmapping2.jpg
-    #   title: Contextmapping Session
-    #   alt: Session with Follow-up Interview
+    - src: /assets/images/materialmosaic/contextmapping1.jpg
+      title: Contextmapping Session
+      alt: Generative User Research Materials
+    - src: /assets/images/materialmosaic/contextmapping2.jpg
+      title: Contextmapping Session
+      alt: Session with Follow-up Interview
   settings:
     height: "'auto'"
     effect: "'fade'"
@@ -170,9 +170,9 @@
     - src: /assets/images/materialmosaic/process-3.jpg
       title: User Evaluation
       alt: Interaction Vision Evaluation
-    # - src: /assets/images/materialmosaic/prototype.jpg
-    #   title: Prototype Building
-    #   alt: Wooden Panel with Aluminium Grid Bars
+    - src: /assets/images/materialmosaic/prototype.jpg
+      title: Prototype Building
+      alt: Wooden Panel with Aluminium Grid Bars
   settings:
     height: "'auto'"
     effect: "'slide'"

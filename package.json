@@ -27,7 +27,6 @@
   ],
   "dependencies": {
     "aos": "^2.3.4",
-    "jekyll": "^3.0.0-beta1",
     "jquery": "^3.5.0",
     "salvattore": "^1.0.9"
   },
@@ -46,6 +45,7 @@
     "gulp-stylelint": "^9.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.0.0",
+    "jekyll": "^3.0.0-beta1",
     "s3-website": "^3.3.0",
     "stylelint": "^10.1.0",
     "stylelint-config-recommended": "^2.2.0",

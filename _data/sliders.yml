@@ -3,9 +3,9 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/images/sensewalker/sensewalker-trio-02.jpg
-      title: Co-Design Workshop
-      alt: Brainstorming session with the participants
+    # - src: /assets/images/sensewalker/sensewalker-trio-02.jpg
+    #   title: Co-Design Workshop
+    #   alt: Brainstorming session with the participants
     - src: /assets/images/sensewalker/sensewalker-trio-03.jpg
       title: Co-Design Workshop
       alt: Participants discussing together

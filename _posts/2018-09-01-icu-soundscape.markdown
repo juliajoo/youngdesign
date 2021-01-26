@@ -47,6 +47,6 @@ The design goal was to provide an immersive introductory experience of the alarm
 ![ICU Soundscape 2](/assets/images/icusoundscape/5-1final.jpg)
 ![ICU Soundscape 3](/assets/images/icusoundscape/1final.jpg)
 ![ICU Soundscape 4](/assets/images/icusoundscape/3final.jpg)
-![ICU Soundscape 5](/assets/images/icusoundscape/4final.jpg)
+<!-- ![ICU Soundscape 5](/assets/images/icusoundscape/4final.jpg) -->
 ![ICU Soundscape 6](/assets/images/icusoundscape/6detailshots.jpg)
 <iframe src="https://player.vimeo.com/video/341329007" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>

@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-UltraBold.eot');
+    src: url('Telegraf-UltraBold.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-UltraBold.woff2') format('woff2'),
+        url('Telegraf-UltraBold.woff') format('woff'),
+        url('Telegraf-UltraBold.ttf') format('truetype'),
+        url('Telegraf-UltraBold.svg#Telegraf-UltraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-Regular.eot');
+    src: url('Telegraf-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-Regular.woff2') format('woff2'),
+        url('Telegraf-Regular.woff') format('woff'),
+        url('Telegraf-Regular.ttf') format('truetype'),
+        url('Telegraf-Regular.svg#Telegraf-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-Regular_1.eot');
+    src: url('Telegraf-Regular_1.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-Regular_1.woff2') format('woff2'),
+        url('Telegraf-Regular_1.woff') format('woff'),
+        url('Telegraf-Regular_1.ttf') format('truetype'),
+        url('Telegraf-Regular_1.svg#Telegraf-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-Medium.eot');
+    src: url('Telegraf-Medium.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-Medium.woff2') format('woff2'),
+        url('Telegraf-Medium.woff') format('woff'),
+        url('Telegraf-Medium.ttf') format('truetype'),
+        url('Telegraf-Medium.svg#Telegraf-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-SemiBold.eot');
+    src: url('Telegraf-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-SemiBold.woff2') format('woff2'),
+        url('Telegraf-SemiBold.woff') format('woff'),
+        url('Telegraf-SemiBold.ttf') format('truetype'),
+        url('Telegraf-SemiBold.svg#Telegraf-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-UltraBold_1.eot');
+    src: url('Telegraf-UltraBold_1.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-UltraBold_1.woff2') format('woff2'),
+        url('Telegraf-UltraBold_1.woff') format('woff'),
+        url('Telegraf-UltraBold_1.ttf') format('truetype'),
+        url('Telegraf-UltraBold_1.svg#Telegraf-UltraBold') format('svg');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-Bold.eot');
+    src: url('Telegraf-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-Bold.woff2') format('woff2'),
+        url('Telegraf-Bold.woff') format('woff'),
+        url('Telegraf-Bold.ttf') format('truetype'),
+        url('Telegraf-Bold.svg#Telegraf-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Telegraf';
+    src: url('Telegraf-UltraLight.eot');
+    src: url('Telegraf-UltraLight.eot?#iefix') format('embedded-opentype'),
+        url('Telegraf-UltraLight.woff2') format('woff2'),
+        url('Telegraf-UltraLight.woff') format('woff'),
+        url('Telegraf-UltraLight.ttf') format('truetype'),
+        url('Telegraf-UltraLight.svg#Telegraf-UltraLight') format('svg');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+

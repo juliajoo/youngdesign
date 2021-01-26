@@ -1,19 +1,22 @@
 # Site/SEO settings
-email: okay@samesies.io
+# email: okay@samesies.io
+email: park.joo.young@protonmail.com
 baseurl: ""
 permalink: /:year/:month/:day/:title/
 google_analytics: 
 
 name: Jooyoung Park
-title: Jooyoung Park
+title: JOOYOUNG PARK
 description: >
   Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 url: http://barber.samesies.io
-twitter_username: thomasvaeth
-default_img: /assets/images/seo.jpg
+twitter_username: JooyYoung1
+default_img: /assets/images/IMG_6909.jpg
 social:
-  # - name: instagram
-  #   url: https://www.instagram.com/joojuixe/
+  - name: instagram
+    url: https://www.instagram.com/joojuixe/
+  - name: twitter
+    url: https://twitter.com/JooyYoung1
   - name: linkedin
     url: https://www.linkedin.com/in/jooyoungvak/
   - name: github
@@ -73,7 +76,6 @@ compress_html:
 exclude:
   - node_modules
   - .DS_Store
-  - barber.jpg
   - Gemfile
   - Gemfile.lock
   - gulpfile.js

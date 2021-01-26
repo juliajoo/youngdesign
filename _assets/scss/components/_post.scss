@@ -122,7 +122,7 @@
   align-items: center;
 
   .post-layout &,
-  #style-guide & {
+  #about & {
     font-family: $font-post;
   }
 
@@ -182,7 +182,7 @@
 
   h6 + hr {
 
-    #style-guide & {
+    #about & {
       margin-top: 1rem;
     }
   }

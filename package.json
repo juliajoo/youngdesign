@@ -27,6 +27,7 @@
   ],
   "dependencies": {
     "aos": "^2.3.4",
+    "jekyll": "^3.0.0-beta1",
     "jquery": "^3.5.0",
     "salvattore": "^1.0.9"
   },

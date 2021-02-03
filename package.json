@@ -9,16 +9,14 @@
     "deploy": "gulp build && bundle exec jekyll build && s3-website deploy _site",
     "gulp": "gulp"
   },
-  "author": {
-    "name": "Jooyoung Park",
-    "email": "park.joo.young@protonmail.com",
-    "url": "https://www.joooyoungpark.com/"
-  },
+  "author": "Jooyoung Park <park.joo.young@protonmail.com> (https://www.joooyoungpark.com/)",
   "repository": {
     "type": "git",
-    "url": "https://github.com/juliajoo/youngdesign.git"
+    "url": "git+https://github.com/juliajoo/youngdesign.git"
   },
-  "bugs": "https://github.com/samesies/barber-jekyll/issues",
+  "bugs": {
+    "url": "https://github.com/samesies/barber-jekyll/issues"
+  },
   "keywords": [
     "barber",
     "jekyll",
@@ -42,16 +40,21 @@
     "gulp-eslint": "^5.0.0",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.0.2",
-    "gulp-stylelint": "^9.0.0",
+    "gulp-stylelint": "^11.0.0",
     "gulp-uglify": "^3.0.2",
     "gulp-zip": "^5.0.0",
     "jekyll": "^3.0.0-beta1",
     "s3-website": "^3.3.0",
-    "stylelint": "^13.9.0",
+    "stylelint": "^8.4.0",
     "stylelint-config-recommended": "^2.2.0",
     "stylelint-config-standard": "^18.3.0",
     "vinyl-buffer": "^1.0.1",
     "vinyl-source-stream": "^2.0.0"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/juliajoo/youngdesign#readme",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "barber-jekyll",
-  "description": "Barber is a blog theme for Jekyll built by Thomas Vaeth at Samesies using HTML, Sass, and JavaScript.",
-  "demo": "http://barber.samesies.io",
+  "name": "JOOYOUNG PARK",
+  "description": "I’m Jooyoung, a UX designer and researcher from South Korea. Born and raised in Seoul, I have been creating user-centric interfaces and experiences. Holding flexible yet critical attitude toward new technologies, I am interested in involving actual users into the design process.",
+  "demo": "https://www.joooyoungpark.com",
   "version": "1.0.0",
   "scripts": {
     "start": "bundle exec jekyll serve",

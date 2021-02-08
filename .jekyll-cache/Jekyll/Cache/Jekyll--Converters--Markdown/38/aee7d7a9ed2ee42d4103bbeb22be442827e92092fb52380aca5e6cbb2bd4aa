@@ -1,0 +1,96 @@
+I""$<p><strong>Material Mosaic</strong> is a grid-system second-hand material organizer facilitating the architecture faculty students to reuse materials in a comfortable and playful manner. With minimal open bar compartments and white isometric background frame, it facilitates students to easily discover gems and share their materials that can still do good for others. As materials with heterogeneous textures and shapes crisscross, a collective mosaic collage is formulated, from which the name of the project originated from.</p>
+
+<hr />
+
+<h3 id="context">Context</h3>
+<!-- &nbsp; -->
+<p>The architecture faculty of TU Delft is notorious for the amount of waste it produced. At the end of every semester, waste material is collected in a truck-sized container outside of the building. This problem triggered the question: <em>What can design do to change the material waste problem occurring in the architecture faculty of TU Delft?</em></p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_materialmosaic_context">
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/1context-tudelft.jpg" title="Problem Context" alt="TU Delft Architecture Faculty Modelling Hall" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/3_1reusebins.jpg" title="Problem Context" alt="Reuse bins" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/3_2contextwaste.jpg" title="Problem Context" alt="Reuse bins" />
+  </div>
+
+<h5 id="being-in-an-anxious-and-stressful-context-students-were-avoiding-material-uncertainty-as-much-as-possible"><em>Being in an anxious and stressful context, students were avoiding material uncertainty as much as possible!</em></h5>
+
+<p><ins>95%</ins> of the students were not reusing the materials due to following reasons.</p>
+
+<ol>
+  <li>Current reuse bins’ poor usability: The bins were usually placed hidden in the corner and outnumbered by trash cans, creating the affordance of guilty purchase and dumping of materials.</li>
+  <li>Current reuse bins’ ergonomic hazards: The bins were built either too low or too high. So people had to bend over or stand on their toes to rummage through the materials as if they are trash, making them feel embarrassed.</li>
+  <li>The Modelling Hall’s stressful context: Students were mostly cramming at the last minute when they were building physical models. ‘Better be sure’ was their motto in terms of material supply, avoiding uncertainty as much as they can by simply buying and hoarding the materials.</li>
+</ol>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_materialmosaic_contextmapping">
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/contextmapping1.jpg" title="Contextmapping Session" alt="Generative User Research Materials" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/contextmapping2.jpg" title="Contextmapping Session" alt="Session with Follow-up Interview" />
+  </div>
+
+<p>Generative contextmapping sessions disclosed following design opportunities.</p>
+<ul>
+  <li><strong><em>Pickers become putters:</em></strong> 90% of <strong>‘pickers’</strong> - students who benefited from the reuse bins - came back to the bins regularly and they afterward became ‘putters’ themselves, putting their left-over materials into the bins.</li>
+  <li><strong><em>Reuse bins’ creative &amp; social potentials:</em></strong> Students associated them with concepts like ‘art’, ‘togetherness’, ‘meeting point’, and ‘curiosity’.</li>
+</ul>
+
+<iframe src="https://player.vimeo.com/video/480497193" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+
+<h6 id="context-observation"><em>Context Observation</em></h6>
+
+<p><img src="/assets/images/materialmosaic/context-journeymap.jpg" alt="Current User Journey Map" /></p>
+<h6 id="current-user-journey-map-of-material-reuse-behavior"><em>Current User Journey Map of Material Reuse Behavior</em></h6>
+
+<hr />
+
+<h3 id="design-goal--interaction-vision">Design Goal &amp; Interaction Vision</h3>
+<p>To focus on the context and user interaction itself, I took <a href="https://ocw.tudelft.nl/wp-content/uploads/DDG_VIP.pdf" target="_blank">Vision in Product Design Approach (a.k.a. ViP)</a>. I formulated a <strong>design goal</strong> - a desired effect - and an <strong>interaction vision</strong> - an analogy of how the interaction of the design should feel like - to transform unpleasant and burdensome experience of material reuse into something fun and inviting.</p>
+
+<p><ins><strong>[Design Goal(DG)]</strong></ins> I want to inspire students of the architecture faculty to increase material reuse during the process of model building.</p>
+
+<p><ins><strong>[Interaction Vision(IV)]</strong></ins> The interaction should feel like.. Discovering a gingerbread house free from the witch and enjoying the sweets with friends (Key interaction qualities: <ins>playful</ins>, <ins>confident</ins>, <ins>pleasant</ins>, <ins>comfortable</ins>)</p>
+
+<p><img src="/assets/images/materialmosaic/dgiv.jpg" alt="DG and IV" /></p>
+
+<hr />
+
+<h3 id="design-process">Design Process</h3>
+<p>Feasible design forms were explored and iteratively evaluated using cardboard prototypes. Whether a concept successfully helps the users to confidently spot desired materials was the most important factor. Because to create a reusing cycle, the design had to secure loyal pickers, who themselves will become putters.</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_materialmosaic_process">
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/process-1.jpg" title="Generative Design Process" alt="Initial Design Interventions &amp; Horizontal Sliding Frame Interaction Evaluation" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/process-2.jpg" title="Comparment Designs" alt="(a) Wavy Shaped Compartments (b) A Grid System Bar Compartments" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/process-3.jpg" title="User Evaluation" alt="Interaction Vision Evaluation" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/prototype.jpg" title="Prototype Building" alt="Wooden Panel with Aluminium Grid Bars" />
+  </div>
+
+<p>The concept <em>Horizontal Sliding Frame</em> with clear affordance of sliding in/out the materials was developed. Through iterative user testing, transparent material holding compartments with different height levels were chosen since it enabled users to view manifold materials in a glance. For the compartment shape, a <em>grid system bar holder shape</em> better conveyed IV than a <em>wavy shape</em> by facilitating users to be playful and creative within a certain structure. Lastly, a plain white isometric grid frame helped users to easily predict material dimensions while enjoying new dispositions of diverse material textures.</p>
+<hr />
+
+<h3 id="final-outcome">Final Outcome</h3>
+<iframe src="https://player.vimeo.com/video/480501146" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+
+<p>On the basis of <a href="https://dined.io.tudelft.nl/en" target="_blank">DINED</a> anthropometric databases, the final prototype of Material Mosaic was developed and evaluated in the wild. 78 people participated in the user testing and 22 people shared their opinions through a feedback sticker board placed next to the prototype.</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_materialmosaic_final">
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/prototype1_0.jpg" title="" alt="Material Mosaic Final Prototype &amp; Key Features" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/prototype1_1.jpg" title="" alt="A participant interacting with the prototype" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/prototype1_2.jpg" title="" alt="User Interaction" />
+  <img data-src="" data-src-2x="" src="/assets/images/materialmosaic/prototype1_3model.jpg" title="" alt="Real Context Application" />
+  </div>
+
+<h5 id="material-mosaic-can-evolve-like-a-living-organism-as-an-ever-changing-painting-it-formulates-an-inspiring-atmosphere-in-the-modelling-hall-being-more-than-just-a-second-hand-material-cabinet"><em>“Material Mosaic can evolve like a living organism. As an ever changing painting, it formulates an inspiring atmosphere in the Modelling Hall, being more than just a second-hand material cabinet.”</em></h5>
+
+<p>Material Mosaic successfully fulfilled the design goal, eliciting more people to easily browse, pick up, and share reusable materials. Most notably, twice as many ‘putters’ were observed. User behaviours of sliding in/out, rearranging, picking up materials, and appreciating the composition of materials were frequently observed.</p>
+:ET

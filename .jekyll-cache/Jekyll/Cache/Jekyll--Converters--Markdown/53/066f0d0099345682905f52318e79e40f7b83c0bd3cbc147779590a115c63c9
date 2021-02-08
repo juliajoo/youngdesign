@@ -1,0 +1,58 @@
+I"�<p><strong>CUE</strong> is a location-based social music platform service targeting Korean music consumers in their twenties. CUE improves the user experience of the company’s existing music streaming service Melon by enabling users to discover and share music through an interpersonal network. It implements AI algorithms to formulate individual music taste databases and connects nearby users who share similar music tastes in a simple swipe action. CUE introduces a new type of music discovery experience by overlaying social and spatial memories on music.</p>
+
+<p>CUE received the Best Innovator Prize and won 700,000 KRW at Summer Internship Final Presentation.</p>
+<hr />
+
+<h3 id="user-research--problem-definition">User Research &amp; Problem Definition</h3>
+<!-- &nbsp; -->
+<p><img src="/assets/images/cue/context-userstudy.jpg" alt="Context Study Process" /></p>
+
+<h5 id="how-are-the-target-users-consuming-music"><em>How are the target users consuming music?</em></h5>
+<h5 id="what-services-are-they-currently-using-and-for-what-reasons"><em>What services are they currently using and for what reasons?</em></h5>
+<h5 id="what-are-the-key-aspects-of-their-music-discovery--sharing-behaviors"><em>What are the key aspects of their music discovery &amp; sharing behaviors?</em></h5>
+<p>Starting from these key questions, we conducted an online survey <em>(N=237)</em> and several focus-group interviews with the predominant user group of Melon: listeners in their twenties. The research results clearly outlined three main objectives the users want to fulfil through music platforms: <ins>music discovering, streaming, and sharing.</ins> However, more than <strong>80 percent</strong> of the respondents only used Melon for the purpose of listening and were not aware of or unsatisfied with its existing features of music discovery and sharing. And they were using other international music platforms like Spotify or Apple Music or social media to fulfil the unmet needs.</p>
+
+<p>We also discovered these design opportunities and took these into account while formulating the design direction.</p>
+<ol>
+  <li>The user group attached great value to the social sharing of music due to following reasons: (1) to discover music, (2) to express their unique identity, (3) to maintain good social networks etc.</li>
+  <li>The majority of the users were using music applications on the road (e.g., while commuting via public transportation, while walking) or in a public place (e.g., cafe, parks).</li>
+  <li>Most interestingly, <strong>53 percent</strong> of the users showed curiosity and interest in knowing the music other people in public spaces are listening to.</li>
+</ol>
+
+<p><img src="/assets/images/cue/context1.png" alt="Context Study Process" /></p>
+<h6 id="how-are-the-target-users-discovering-new-music-and-for-what-reasons"><em>How are the target users discovering new music and for what reasons?</em></h6>
+
+<hr />
+
+<h3 id="project-goals">Project Goals</h3>
+<!-- &nbsp; -->
+<h5 id="creating-instagram-and-tinder-for-music"><em>Creating Instagram and Tinder for Music</em></h5>
+<ol>
+  <li>To design a new all-in-one music platform where users can discover, listen to, and share music to other users</li>
+  <li>To create a mobile environment where users with similar music taste can easily socialize with each other utilizing their spatial proximity</li>
+  <li>To establish a UX flow encouraging users mutual interaction, through which the client can improve the quality of the music database</li>
+</ol>
+
+<hr />
+
+<h3 id="design-process">Design Process</h3>
+<p>Through an iterative design process, an overall information architecture was formulated focusing on four main features: <ins><strong>interpersonal music sharing (we coined a term ‘Cuing’), social music feed, music search, and my page</strong></ins>. Particularly, we took into account that users are specifically intrigued in sharing/being shared new music to/from other people with similar music taste as themselves. So we designed the two main tabs of Cuing and social music feed easily accessible, intuitive, and visually familiar to target users.</p>
+
+<p><img src="/assets/images/cue/designprocess-feature.jpg" alt="CUE Main Features" /></p>
+<h6 id="main-features"><em>Main Features</em></h6>
+
+<p><img src="/assets/images/cue/designprocess-infoarchitecture.png" alt="Information Architecture" /></p>
+<h6 id="app-information-architecture"><em>App Information Architecture</em></h6>
+
+<p><img src="/assets/images/cue/designprocess-wireframe.jpg" alt="CUE Wireframe" /></p>
+<h6 id="app-wireframe"><em>App Wireframe</em></h6>
+<hr />
+
+<h3 id="final-outcome">Final Outcome</h3>
+<p><img src="/assets/images/cue/final-cue1.jpg" alt="CUE App Overview" />
+<img src="/assets/images/cue/final-cue2.jpg" alt="CUE Loading Page" />
+<img src="/assets/images/cue/final-cue3.jpg" alt="CUE Cuing" />
+<img src="/assets/images/cue/final-cue5.jpg" alt="CUE Feed" />
+<img src="/assets/images/cue/final-cue4.jpg" alt="CUE Search" />
+<img src="/assets/images/cue/final-cue6.jpg" alt="CUE My Page" /></p>
+:ET

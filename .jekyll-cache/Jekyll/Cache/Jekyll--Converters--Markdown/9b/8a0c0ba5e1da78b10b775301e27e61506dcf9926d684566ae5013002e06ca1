@@ -1,0 +1,42 @@
+I" <p>ICU Soundscape is an interactive installation design addressing the seriousness of medical alarm cacophony problems in intensive care units (ICU). It was designed as an introductory installation for <a href="https://delftdesignlabs.org/criticalalarmslab/" target="_blank">TU Delft Critical Alarms Lab</a> Exposition with other master graduation projects of the lab. The audience were introduced to a rather unfamiliar target context of ICU by playing the sounds of critical alarms themselves. Each string made out of medical tubes embodied one of the alarm noises in the ICU of Erasmus MC. The audience could create their own alarm cacophony by plucking the strings.</p>
+
+<p>ICU Soundscape was exhibited at <a href="https://ddw.nl/en/magazine-archive/181/embassy-of-health" target="_blank">Dutch Design Week 2018 Embassy of Health</a> and supported by <a href="https://vanberloagency.com/" target="_blank">VanBerlo</a>.</p>
+
+<hr />
+
+<h3 id="background">Background</h3>
+<p><img src="/assets/images/icusoundscape/ddw_background.jpg" alt="Intensive Care Unit" /></p>
+
+<p>Alarm sounds are of crucial importance in this space of ICU as an auditory cue notifying clinicians if immediate action is required - they often signify the difference between life and death. However, they also create a stressful environment for many users. Patients themselves or their families sometimes turn them off, which can lead to a critical situation. The cacophony of alarm sounds also leads to clinicians’ alarm fatigue, in which important signals could be missed.</p>
+<hr />
+
+<h3 id="goals">Goals</h3>
+
+<p>The design goal was to provide an immersive introductory experience of the alarm cacophony, the main problem context of the ICU to laymen audience. While onboarding the audience to the problem context, we wanted the experience to be engaging and playful instead of giving them a didactic impression.</p>
+<hr />
+
+<h3 id="design-process">Design Process</h3>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_icu_process">
+  <img data-src="" data-src-2x="" src="/assets/images/icusoundscape/process-1sketch.jpg" title="Sketching &amp; Modelling" alt="Initial Form Giving Sketches and Modelling" />
+  <img data-src="" data-src-2x="" src="/assets/images/icusoundscape/process-2electronics.jpg" title="Electronics Work &amp; Installation Assembling" alt="" />
+  </div>
+<p><ins><strong>Sketching &amp; Modelling</strong></ins> : We decided to endow the audience with a power to create the alarm cacophony themselves to make the experience still playful within the seriousness of the topic. A cylinder shaped design with harp-like playable strings attached around its rim was chosen since we found it both intriguing and easy to reassemble. To enhance the quality of immersive experience, we used medical tubes as strings and placed actual or 3D-printed model objects of medical equipment in the middle of the soundscape.</p>
+
+<p><ins><strong>Electronics Work &amp; Installation Assembling</strong></ins> : We mapped alarm sounds collected from Erasmus MC ICU into each tube string using Arduino, tilt sensors, and MaxMSP software. Tilt sensors were attached on the bottom part of the string to detect the user’s plucking behavior and actuate respective sound files through MaxMSP. Through iterative testing, the sensitivity of the tilt sensors had to be adjusted to avoid the sounds from playing by themselves. Afterwards, the whole components were assembled.</p>
+<iframe src="https://player.vimeo.com/video/480492221" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+
+<hr />
+
+<h3 id="final-outcome">Final Outcome</h3>
+<p><img src="/assets/images/icusoundscape/0final.jpg" alt="ICU Soundscape 1" />
+<img src="/assets/images/icusoundscape/5-1final.jpg" alt="ICU Soundscape 2" />
+<img src="/assets/images/icusoundscape/1final.jpg" alt="ICU Soundscape 3" />
+<img src="/assets/images/icusoundscape/3final.jpg" alt="ICU Soundscape 4" />
+<img src="/assets/images/icusoundscape/4final.jpg" alt="ICU Soundscape 5" />
+<img src="/assets/images/icusoundscape/6detailshots.jpg" alt="ICU Soundscape 6" /></p>
+<iframe src="https://player.vimeo.com/video/341329007" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+:ET

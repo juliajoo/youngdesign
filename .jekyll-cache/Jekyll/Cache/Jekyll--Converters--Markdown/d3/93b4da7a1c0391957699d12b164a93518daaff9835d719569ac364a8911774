@@ -1,0 +1,117 @@
+I":(<p>Data-driven nudging is an emerging urban behavior change strategy which enables more efficient city management but also results in social implications like increased surveillance. However, there is still lack of awareness and citizen involvement on this topic due to its complexity and digital divide. <strong>The Smart Bench Experience</strong> consists of two interactive artefacts - a Smart Bench and its compatible interface - materializing a future scenario of a data-driven smart city. This set of experiential prototypes opened up collective discussions, through which I investigated citizens’ future city visions and potential prerequisites of data-driven urban IoTs for citizens.</p>
+
+<p>The project was selected to take part in <strong><a href="https://ddw.nl/en/video/79/design-united-silent-power" target="_blank">Design United</a></strong> Exposition <em>Up Close &amp; Personal</em> during <a href="https://ddw.nl/" target="_blank">Dutch Design Week 2020</a>. You can check out the <em>eMagazine</em> article <a href="https://2020.design-united.nl/day-4-silent-power/the-smart-bench-experience/" target="_blank">here</a>.</p>
+
+<hr />
+
+<h3 id="background">Background</h3>
+<!-- &nbsp; -->
+<h5 id="influential-yet-subtle-existence-of-data-driven-nudging-and-unaware-citizens"><em>Influential yet subtle existence of data-driven nudging and unaware citizens</em></h5>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_smartbench_background">
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/1_1stratumseind.jpg" title="An example of data-driven nudging in NL" alt="Stratumseind in Eindhoven" />
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/1_2backgroundfull.png" title="Applications of Data-driven Nudging" alt="Stratumseind Living Lab's aggressive behavior detection" />
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/1_3backgroundfull.png" title="Applications of Data-driven Nudging" alt="Stratumseind Living Lab's aggressive behavior detection" />
+  </div>
+
+<p>As a vast aggregate of urban data can be easily measured and collected, data-driven nudging is being implemented in many urban infrastructures to prompt desirable citizen behaviors. Unlike regular nudging, with data-driven nudging citizen behaviors can be more elaborately yet unknowingly steered and optimized using predictive algorithms.</p>
+
+<p><img src="/assets/images/smartbench/conceptual_framework.jpg" alt="5 Key Attributes of Data-driven Nudging" /></p>
+<h6 id="a-conceptual-framework-5-key-attributes-of-data-driven-nudging"><em>A Conceptual Framework: 5 Key Attributes of Data-driven Nudging</em></h6>
+
+<p>Through literature research, <ins>5 key attributes of data-driven nudging</ins> were identified and utilized as a conceptual framework for the design.</p>
+
+<hr />
+
+<h3 id="design-goals">Design Goals</h3>
+
+<h5 id="how-to-facilitate-laymen-citizens-understanding-of-data-driven-nudging-and-its-implications-and-thereby-create-critical-awareness"><em>How to facilitate laymen citizens’ understanding of data-driven nudging and its implications and thereby create critical awareness?</em></h5>
+<p><strong>Goal 1:</strong> To create tangible experience of an alternative future conveying the key attributes of data-driven nudging and its mechanisms</p>
+
+<p><strong>Goal 2:</strong> To evoke critical awareness and trigger open discussions about data-driven nudging and its potential social implications</p>
+
+<p><strong>Goal 3:</strong> To investigate how citizens vision the future city they want to live in and what are their needs/concerns for the implementation of data-driven nudging</p>
+<hr />
+
+<h3 id="approach--method">Approach &amp; Method</h3>
+
+<!-- ![The Future Cone](/assets/images/smartbench/future-cone.jpg) -->
+<p><img src="/assets/images/smartbench/scd.png" alt="The Future Cone" /></p>
+<h6 id="the-future-cone-a-diagram-of-potential-futures-pppp"><em>The Future Cone: A Diagram of potential futures (PPPP)</em></h6>
+
+<p>I chose <em><a href="https://speculativeedu.eu/about/" target="_blank">Speculative and Critical Design (SCD)</a></em> as a main approach because immersing citizens into an <em><a href="https://futuryst.blogspot.com/2018/10/experiential-futures-brief-outline.html" target="_blank">experiential future</a></em> scenario seemed relevant to achieve the design goals. The entire process took a double-diamond structure, utilizing <em><a href="https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design" target="_blank">Research through Design (RtD)</a></em> methodology.</p>
+<hr />
+
+<h3 id="design-process">Design Process</h3>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_smartbench_process1">
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/process1_1.jpg" title="" alt="Concept ideas" />
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/process1_3.jpg" title="" alt="User evaluation with interaction walkthrough" />
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/process1_4.jpg" title="" alt="Data points brainstorming for a speculative interactive system" />
+  </div>
+
+<p>Through brainstorming sessions, a narrative context of a public bench was selected considering its simplicity, technical feasibility, and near future likelihood. The iterative user testing refined the bench concept to provide a double-sided interactive experience with several plausible yet provoking data points detecting citizens’ personal characteristics.</p>
+
+<p><img src="/assets/images/smartbench/3_2storyboard.jpg" alt="Experience Storyboard" /></p>
+<h6 id="the-smart-bench-experience-storyboard"><em>The Smart Bench Experience Storyboard</em></h6>
+
+<p>Based on a storyboard, the Smart Bench’s interactive nudging system was established and its compatible digital interface was developed.</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="slider_smartbench_process2">
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/2_1wireframe.jpeg" title="" alt="Interface Module 1 Wireframe - Healthy City" />
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/2_2wireframe.jpeg" title="" alt="Interface Module 2 Wireframe - Clean City" />
+  <img data-src="" data-src-2x="" src="/assets/images/smartbench/2_3wireframe.jpeg" title="" alt="Interface Module 3 Wireframe - Safe City" />
+  </div>
+
+<p><img src="/assets/images/smartbench/process_dataflowchart.png" alt="The Smart Bench Data Flowchart" /></p>
+<h6 id="the-smart-benchs-interactive-system-data-flowchart"><em>The Smart Bench’s Interactive System Data Flowchart</em></h6>
+
+<hr />
+
+<h3 id="final-outcome">Final Outcome</h3>
+
+<p><img src="/assets/images/smartbench/outcome-1smartbench.bmp" alt="The Smart Bench Experience" /></p>
+<h6 id="the-smart-bench-experience"><em>The Smart Bench Experience</em></h6>
+
+<p>The Smart Bench Experience consists of a semi-Wizard-of-Ozed Smart Bench and an interface presented on an iPad.</p>
+
+<p><img src="/assets/images/smartbench/2bench.jpg" alt="Prototype 1: Smart Bench" /></p>
+<h6 id="prototype-1-smart-bench"><em>Prototype 1: Smart Bench</em></h6>
+<iframe src="https://player.vimeo.com/video/399715650" width="640" height="469" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+
+<h6 id="prototype-2-ipad-interface"><em>Prototype 2: iPad Interface</em></h6>
+
+<p>Sensors attached to the bench detect users’ personal characteristics such as BMI, socioeconomic status, and ethnicity. The bench’s fictional algorithmic system uses these data to determine whether they are likely to be good citizens or not. Based on this, it can either let the users stay or nudge them away by deploying alerts. Startled users, wondering what just happened, would be guided to the iPad interface. Here, they can become “the nudger”, influencing other citizens. They can learn about the bench’s nudging mechanisms, adjust and update the algorithmic variables themselves to protect urban values like public health, neighbourhood pleasantness, and safety.</p>
+
+<iframe src="https://player.vimeo.com/video/468340179?title=0&amp;byline=0&amp;portrait=0" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+<h6><a href="https://vimeo.com/468340179">The Smart Bench Experience</a> from <a href="https://vimeo.com/user123745452">Design United</a> on <a href="https://vimeo.com">Vimeo</a>.</h6>
+
+<p>Qualitative analysis confirmed a fruitful capacity of design futuring in materializing an abstract concept that has yet to arrive, evoking critical awareness, and involving laymen citizens into the urban design process.</p>
+
+<p><ins>Here are the key findings.</ins></p>
+
+<ol>
+  <li>Everyday narrative of a public bench facilitated users to relate the fictional artefacts with their own daily lives and to reflect on the current urban governance or pre-existing technological discrimination.</li>
+  <li>Users were most concerned about the algorithmic decision-making aspect of data-driven urban IoTs than the practice of data collection itself. The majority of them also expressed a strong need of clear signs on urban IoTs informing them about how they are capturing private data and to what extent they collect information.</li>
+  <li>Users were more open about data-driven nudging when its intention was to improve individual health. On the other hand, data neutrality and algorithmic fairness were most questioned when the bench was on a ‘safe city’ mode.</li>
+</ol>
+
+<!-- <blockquote>
+  <p>“It seems like this bench wants to incorporate other categories of people into the normal category. It only treats ‘normal’ people as an individual.”</p>
+  <cite>P6</cite>
+</blockquote>
+<blockquote>
+  <p>“It seems that this algorithmic system is a reflective system of the society. I would go against this system because it looks like it is supporting racism.”</p>
+  <cite>P2</cite>
+</blockquote> -->
+
+:ET
